@@ -43,4 +43,4 @@ async def on_message(message):
             pass
 
 
-client.run("NzQwODI0MzM4NjYzNDczMjMy.Xyuobg.xBMhzJ8pnnwzxI4ZZC2O9k4I5Qs")
+clie
